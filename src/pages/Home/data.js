@@ -12,6 +12,12 @@ export const product = [
     imgPath:abcd_img1,
     productName:"Paracetamol",
     price:"30"
+ },
+ {
+    id:3,
+    imgPath:abcd_img1,
+    productName:"Paracetamol",
+    price:"30"
  }
 ];
 

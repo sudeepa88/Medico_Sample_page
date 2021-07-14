@@ -16,7 +16,7 @@ export const product = [
  {
     id:3,
     imgPath:abcd_img1,
-    productName:"Paracetamol",
+    productName:"ADIronXT",
     price:"30"
  }
 ];
